@@ -19,10 +19,12 @@
             <div>
                 <listPlace>
                     <head>List of Place Names</head>
-                    <place xml:id="FelmershamBeds">
+                    <place xml:id="BedsFelmersham">
                         <placeName type="main">Felmersham</placeName>
                     </place>
-
+                    <place xml:id="BedsRadwell">
+                        <placeName type="main">Radwell</placeName>
+                    </place>
                 </listPlace>
             </div>
         </body>
