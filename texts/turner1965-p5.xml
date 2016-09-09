@@ -8,10 +8,10 @@
                 <author>Robert Turner</author>
             </titleStmt>
             <publicationStmt>
-                <p part="N">Privately published. </p>
+                <p>Privately published. </p>
             </publicationStmt>
             <sourceDesc default="false">
-                <p part="N">Encoded from typescript manuscript</p>
+                <p>Encoded from typescript manuscript</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -30,10 +30,10 @@
                 <pb n="1"/>
                 <head>1965 - <placeName ref="#pl:felmersham">Felmersham</placeName> AND
                         <placeName ref="#pl:radwell">Radwell</placeName></head>
-                <p part="N">In this book I have tried to outline the history of the two villages,
+                <p>In this book I have tried to outline the history of the two villages,
                     the best I can in the last 80 years up to and including 1965, with the help of
                     some of the elder people in the two villages.</p>
-                <p part="N">There are things happened in the two villages that I know nothing about,
+                <p>There are things happened in the two villages that I know nothing about,
                     so please excuse me if I have not mentioned them, I hope that all who reads the
                     book will enjoy it, I have wrote it the best I can.</p>
                 <byline>Robert Turner.</byline>
@@ -52,19 +52,19 @@
         </front>
         <body>
             <div1 part="N" org="uniform" sample="complete">
-                <p part="N">
+                <p>
                     <pb n="2"/> In this Book I am going to try and outline the history as far. as I
                     can in the villages of <placeName ref="#pl:felmersham">Felmersham</placeName>
                     and <placeName ref="#pl:radwell">Radwell</placeName>. From <date when="1890"
                         instant="false">1890</date> to <date when="1965" instant="false">1965</date>
                     there has been a lot of changes, in those years which I am going to try and
                     explain, which I hope will be interesting to read, in the village. </p>
-                <p part="N"> In those days <persName ref="#pers-green-hh">the Squire</persName> was
+                <p> In those days <persName ref="#pers-green-hh">the Squire</persName> was
                         <persName ref="#ps:green-hh">H. H. Green</persName> who lived at
                         <placeName>The Grange</placeName> and after his death it was taken over by
                         <persName ref="#ps:veils-richard">Richard Veils</persName>, which I
                     shall be writing about later on in the Book. </p>
-                <p part="N"> First I would like to write about my own Family. My Mother was born at
+                <p> First I would like to write about my own Family. My Mother was born at
                         <placeName ref="#pl:felmersham">Felmersham</placeName> and lived in the
                     old <placeName ref="#pl:felmersham">Felmersham</placeName> Manor House near
                     the <placeName ref="#pl:six-ringers-inn">Six Ringers</placeName> where the
@@ -89,13 +89,13 @@
                         <persName>Eliza</persName>, <persName>Minnie</persName>,
                         <persName>Dora</persName>, <persName>Ida</persName>,
                         <persName>Hetty</persName> and <persName>Sarah</persName>. </p>
-                <p part="N"> My Father was born at <placeName>Campton</placeName> and in those days
+                <p> My Father was born at <placeName>Campton</placeName> and in those days
                     he used to walk from <placeName>Campton</placeName> to <placeName
                         ref="#pl:felmersham">Felmersham</placeName> which is about 15 miles, to
                     court my Mother, they used to tell us in those days, I wonder today if they
                     would do that to see their young lady? Of course there were no other transport,
                     bicycles were not then on the market, only the old Penny Farthing. </p>
-                <p part="N"> I will now try and tell you about some of the things that used to
+                <p> I will now try and tell you about some of the things that used to
                     happen in the village in my boy days. The Squire and the Parson was the Leading
                     Light in those days and what they said was Law as far as it could be, so
                     everyone had to keep the right side as near as you could manage to do so. Of
@@ -104,13 +104,13 @@
                     Summer, which <placeName ref="#pl:felmersham">Felmersham</placeName> always
                     had a cricket team, and then they used to fill their spare time in, when they
                     had any, in fishing. </p>
-                <p part="N"> You would always see all the village mostly in their best clothes on
+                <p> You would always see all the village mostly in their best clothes on
                     Sunday and the majority go to the Church, and the Squire <pb n="3"/> would be
                     there to see fair play. I remember the Squire fetching me out as we were
                     playing, I was on the end of a row and he got out of his pew and came down the
                     Church, and got hold of my left ear, and had me up to where his pew was, and
                     there I had to stand for the remainder of the Service. </p>
-                <p part="N"> The Squire was a gentleman farmer and used to grow a lot of corn. You
+                <p> The Squire was a gentleman farmer and used to grow a lot of corn. You
                     could see stacks all along the fields and then in the winter time it would be
                     thrashed out and the straw etc. fed to the cattle. The Squire had several farms
                     he had land at <placeName ref="#pl:felmersham">Felmersham</placeName>,
@@ -120,7 +120,7 @@
                         >Grendon</placeName>. He was a big sheep farmer and also kept some fine
                     bullocks. The sheep used to be fed on the swedes in the Winter and fatted up for
                     the Market. </p>
-                <p part="N"> Of course in those days the work wall all done by horses there was no
+                <p> Of course in those days the work wall all done by horses there was no
                     tractors, the only machines was a Reaper Binder and Grass Cutter, and all the
                     corn and hay etc. was carted by the horse and cart or wagon. The Squire used to
                     keep about <num value="20">20</num> horses to do the work on the various farms.
@@ -149,7 +149,7 @@
                     the Foreman's house to get their weekly wages and some would go to the pub for
                     the evening to have a Sing Song and play darts and that's how the life in the
                     village would go on week in and week out. </p>
-                <p part="N"> On Good Friday you used to have to go to Church or you <pb n="4"/>
+                <p> On Good Friday you used to have to go to Church or you <pb n="4"/>
                     would lose your day's pay, unless you was ill. There was no work in Good Friday,
                     it was treated more or less as a Sunday in the village. The Squire used to go
                     round the farms with the Foreman,when he visited his farm at Odell he would go
@@ -159,7 +159,7 @@
                     wanted to see how the farming was going on. The punt was worked across the river
                     by a length of chain attached to both ends, so you could get across whichever
                     side the punt was and so the work went on in that way. </p>
-                <p part="N"> The Squire used to have Shooting parties, they used to shoot in
+                <p> The Squire used to have Shooting parties, they used to shoot in
                         <placeName ref="#pl:odell-wood">Odell Wood</placeName> and over the
                     various farms. There used to be a pack of Hare Hounds come to <placeName
                         ref="#pl:felmersham">Felmersham</placeName>. <persName
@@ -190,7 +190,7 @@
                     farmers had a shepherd in those days, <persName>Mr. William Ashpole</persName>
                     was Shepherd for the Squire in those days. Of course it was a beer job and a lot
                     of that at times. </p>
-                <p part="N"> So much for the sheep washing now I must see about the Ram Sale, which
+                <p> So much for the sheep washing now I must see about the Ram Sale, which
                     used to be held in the village most years. They used to be a long time in
                     preparing the ram for sale. They used to get <pb n="5"/> them ready in
                         <placeName>Harvest Yard</placeName> opposite Mr. Church's farm yard which is
@@ -203,7 +203,7 @@
                     much as you liked to drink. There was a man from Odell who,they tell me, had too
                     much and walked in the river and was drowned. His name was Kennedy, they tell
                     me. I have a strong suspicion that ended the Smoking Concert after that. </p>
-                <p part="N">
+                <p>
                     <persName>Lord Alan Compton</persName> was M.P. at those time. There is one
                     thing when the Squire had a do it was a good one. I remember quite well the time
                     when the daughters used to be married. It was a free do for all the whole
@@ -227,7 +227,7 @@
                     the farm over on his own and farmed there until <persName>Mr. L.
                         Church</persName> took over the farm and is still farming there today and
                     has bought the farm a few years .ago. </p>
-                <p part="N"> Now I must try and outline the activities which have occured in the two
+                <p> Now I must try and outline the activities which have occured in the two
                     villages. Its nothing strange to seer women working in the fields today as this
                     used to go on years ago, but did not get much tor their work but they had to do
                     it to make end meet. After harvest you would see all the women and children in
@@ -249,13 +249,13 @@
                     husband,take it home and then your wife would take the children into <placeName
                         ref="#pl:bedford">Bedford</placeName> to fix them up for the winter and
                     this is how it went on each year. </p>
-                <p part="N"> At Xmas time there was not many toys, perhaps you would get a Monkey on
+                <p> At Xmas time there was not many toys, perhaps you would get a Monkey on
                     a Stick, and a few sugar mice, and home-made sweets, a orange, nuts and dates,
                     of course you did hang your stocking up. and hope for the best. Today its a
                     different problem, they have a pillow-case to hang up now, and jolly good luck
                     to them, what a change there is in this last 50 years. No one would have
                     believed it 50 years ago. </p>
-                <p part="N"> There was 4 farmers in the village, <persName>Squire Green</persName>,
+                <p> There was 4 farmers in the village, <persName>Squire Green</persName>,
                         <persName>Mr. Brooks</persName>, <persName>Mr. Flemings</persName>, and
                         <persName>Mr. Jack Thomas</persName>. There were also the small farmers re,
                         <persName>Charles Robinson</persName>, <persName>Charlie Cook</persName>, he
@@ -285,7 +285,7 @@
                     cannot answer. Well that is how the life in the village was in those good old
                     days, but as I said before there were good times as well as bad ones and these
                     always will be.</p>
-                <p part="N"> There was always an Harvest Supper. The Squire would hold these in the
+                <p> There was always an Harvest Supper. The Squire would hold these in the
                         <placeName>Sun Club Room</placeName> and sometimes the Squire would come
                     down in the evening to celebrate and have a drink with his men. There was always
                     a few guests the foreman would invite and a jolly evening was spent with songs
@@ -293,7 +293,7 @@
                     and that's how life went on in the village 60 years ago. Of course today in 1965
                     everything is done with machinery and there's not time to celebrate and it takes
                     7 days to do it. </p>
-                <p part="N">It was in the old days that a good many jobs were done by hand. I have
+                <p>It was in the old days that a good many jobs were done by hand. I have
                     been told that down in <placeName>Wolfsmead</placeName>, a field which farmed by
                     the Squire. There was 17 moving barley with syths and in the course of the day,
                         <persName>Fred Payne</persName> who lives at <placeName
@@ -307,7 +307,7 @@
                     were about they knew it was time and the Squire were very strict about meals
                     times. The bell would be rung at 1.0 o'clock and 7.0 o'clock in the evening, for
                     both meals.</p>
-                <p part="N">On Saturdays the large families, the Widows and Old Maids which there
+                <p>On Saturdays the large families, the Widows and Old Maids which there
                     was a few in those days could go to the Grange at 11 o'clock and would be given
                     a can of soup which the cook would give out to them and that would go on each
                     week. Then in October those that was in need of another blanket could have one
@@ -315,14 +315,14 @@
                     and then at the end of March they were washed and taken back and fetched again
                     in October, and that is how the life went on in the village. It was no shame in
                     those days to accept charity.</p>
-                <p part="N">The Squire at Xmas time would give all his employees a joint of Beef and
+                <p>The Squire at Xmas time would give all his employees a joint of Beef and
                     the others in the village would get a couple of rabbits and so on, so no-one
                     used to be without a Xmas Dinner.</p>
-                <p part="N">The Coachman in my younger days was a man named <persName>Bob
+                <p>The Coachman in my younger days was a man named <persName>Bob
                         Newton</persName> then after he left <persName>Mr. A. Ashpole</persName>
                     known as <persName>Bartney</persName> took the job on, and he was with the
                     Squire as Coachman until the Squire died in 1915.</p>
-                <p part="N">I am now going to write about the various things that happened with
+                <p>I am now going to write about the various things that happened with
                     regard to the population of the village, there was some very large families in
                     those days. There was a family known as the <persName>Rust</persName>, which
                     there are some in the village this present day in 1965. The most outstanding as
@@ -357,19 +357,19 @@
                     Grandfather and many more of the <persName>Rust</persName> family are interned
                     in <placeName ref="#pl:felmersham">Felmersham</placeName> Church Yard which I
                     think must be a record for so many relations.</p>
-                <p part="N"><persName>Mr. G. Hulatt</persName> who was roadman in <placeName
+                <p><persName>Mr. G. Hulatt</persName> who was roadman in <placeName
                         ref="#pl:felmersham">Felmersham</placeName> had a family of 7 sons and 2
                     daughters and there is none of them living in the village today. <persName>Mr.
                         W. Hulatt</persName>, husband of <persName>Mrs, Hulatt</persName> who keep
                     the Post Office today died last year <date when="1964" instant="false"
                         >1964</date>. I shall be writing <pb n="9"/> more about the Post Office
                     later on.</p>
-                <p part="N">Now I would like to write something about the
+                <p>Now I would like to write something about the
                         <persName>Gadsby</persName> family. <persName>Amos Gadsby</persName> was
                     Sexton at the Church for many years he was there at the time of the Vicar,
                         <persName>William Lathbridge</persName> and he used to be Gardener and
                     Handyman and take the Vicar out in a 4 wheel carriage.</p>
-                <p part="N"><persName>Amos Gadsby</persName> had 8 children, 4 boys and 4 girls. One
+                <p><persName>Amos Gadsby</persName> had 8 children, 4 boys and 4 girls. One
                     of the girls married a man named <persName>Chapman</persName>, when the house
                     was sold which used to be known as The Old Reading Room, <persName>Mr.
                         Chapman</persName> bought it, he also bought the houses known as The Row,
@@ -387,7 +387,7 @@
                         >Felmersham</placeName> came over to <persName>Mrs. Wallenger</persName> and
                     the house where Boness lives came over to <persName>Percy</persName>. I cannot
                     say for sure if this is correct or not.</p>
-                <p part="N">With regard to the others in the family the sons are all passed on but
+                <p>With regard to the others in the family the sons are all passed on but
                     there is as far as I know 3 daughters living at <placeName ref="#pl:clapham"
                         >Clapham</placeName>, <persName>Mrs. C. Tew</persName> is one who lives at
                     No. 8 Milton Road, <placeName ref="#pl:clapham">Clapham</placeName>. There is
@@ -408,7 +408,7 @@
                     my Father's sale and where I was born on December 1st, 1890. <persName>Mr. Sara
                         Lovell</persName> took the house over after the death of his Father Thomas
                     Lovell, and is now making alterations to the old house.</p>
-                <p part="N">I would like now to tell you something about the fire which occured in,
+                <p>I would like now to tell you something about the fire which occured in,
                     the village round about 60 year ago or thereabout. The building was at the time
                     of the fire rented by Mr. Riseley who used to be a Smallholder and used to have
                     land let out then as allotments up the <placeName ref="#pl:sharnbrook-road"
@@ -440,11 +440,11 @@
                     daughter of <persName>Mr. William Roberts</persName> who lived at the time in
                     the house which was occupied afterward by <persName>Mr, Jack
                     Ashpole</persName>.</p>
-                <p part="N"><persName>Mr. D. Riseley</persName> and his wife went to Canada where
+                <p><persName>Mr. D. Riseley</persName> and his wife went to Canada where
                     they are today according to the confirmation I have gathered off of their
                     relations. His wife is more or less an invalid, that is as far as I can go on
                     this subject.</p>
-                <p part="N">I will now try to tell you something about the life of the late
+                <p>I will now try to tell you something about the life of the late
                         <persName>Sir Richard Wells Bart.</persName> he took over <persName>the
                         Grange</persName> in 1919. He put up for parliament in 1922 and was elected.
                     The year he was elected twins was born <persName>Sarah</persName> and
@@ -472,7 +472,7 @@
                         ref="#pl:radwell-bus-shelter">Bus Shelter</placeName> erected at
                         <placeName ref="#pl:radwell">Radwell</placeName> came out of that
                     fund.</p>
-                <p part="N">The late <persName>Mr. E. Rust</persName> was Keeper for the late
+                <p>The late <persName>Mr. E. Rust</persName> was Keeper for the late
                         <persName>Sir Richard Wells Bart.</persName> until his death,
                         <persName>Arthur Odell</persName> was his chauffeur for 40 years.
                         <persName>Lady Wells</persName> used to take an active part in the welfare
@@ -482,7 +482,7 @@
                     lives today 1965. <persName>Sir Richard Wells Bart.</persName> was a keen
                     sportsman and liked to go shooting. He had shooting rights in several villages
                     and used to engage beaters on these occasions.</p>
-                <p part="N"> The <persName>Ashpole</persName> family was born at <placeName
+                <p> The <persName>Ashpole</persName> family was born at <placeName
                         ref="#pl:felmersham">Felmersham</placeName> there was 5 sons and 2
                     daughters, I cannot give all their records, <persName>William</persName> was
                     Shepherd for the Squire, <persName>Jack</persName> was horsekeeper and then in
@@ -503,7 +503,7 @@
                         Ashpole</persName> who married <persName>Fred Franklin</persName> so the
                     house still remains in the <persName>Ashpole</persName> family. I cannot go any
                     further about this house now.</p>
-                <p part="N">There was a family of the <persName>Whitneys</persName>, the Mother was
+                <p>There was a family of the <persName>Whitneys</persName>, the Mother was
                         <persName>Mary</persName> and the Father named <persName>George</persName>,
                     he was known in the village as <persName>Doudy</persName>. They had a large
                     family and according to the names it ran, <persName>Jack</persName>,
@@ -537,13 +537,13 @@
                         >Sharnbrook</placeName> was the man who used to fetch the mail and after
                     that a man named <persName>Ridey</persName> took the job on. I can go no farther
                     on this problem.</p>
-                <p part="N">Now I am going to write about the <persName>Betts</persName> family
+                <p>Now I am going to write about the <persName>Betts</persName> family
                     which I will outline to you as near as I can. <persName>Mr. Thomas
                         Betts</persName> he used to live up the <placeName
                         ref="#pl:pavenham-road">Pavenham Road</placeName> in the end house next
                     to where the new bungalow is <persName>Mr. H. J. Cook's</persName> and son's
                     own, and the house I am referring to is owned by them today 1965.</p>
-                <p part="N"><persName>Mr. Thomas Betts</persName> was Gamekeeper for the Squire for
+                <p><persName>Mr. Thomas Betts</persName> was Gamekeeper for the Squire for
                     many years. I knew him and his wife quite well, he had two sons one named
                         <persName>Arthur</persName> and the other <persName>Johnnie</persName>, the
                     daughters all I know was the one that married <persName>Sid Sumlin</persName>
@@ -576,7 +576,7 @@
                     married <persName>Lesley Payne</persName>, they have two sons. <persName>Mrs.
                         Payne</persName> is caretaker at the school and also at the church in
                     1965.</p>
-                <p part="N">Mr. George Howe, the father of Mrs. Payne who lived in the house which
+                <p>Mr. George Howe, the father of Mrs. Payne who lived in the house which
                     belonged to the old Blacksmith shop which is now pulled down was between and was
                     situated on the ground next to <persName>Mr. Alwin Betts</persName> garage. The
                     Blacksmith was the name of <persName>Gamble</persName> he had a Blacksmith shop
@@ -596,7 +596,7 @@
                     had shoed the horses which belong to the Squire he would let theu go home on
                     their own. There was no motor traffic about to knock them down those days and
                     that*s how the life in the village v/ent on,</p>
-                <p part="N">There was in the village in those days <persName>Mr. Pool</persName>,
+                <p>There was in the village in those days <persName>Mr. Pool</persName>,
                         <persName>Mr. Brooks</persName>, <persName>Mr. J. Thomas</persName>,
                         <persName>Mr. Flemings</persName>, <persName>Mr, C. Robinson</persName> and
                         <persName>Mr. C, Cook</persName> up the <placeName
@@ -614,7 +614,7 @@
                     Fleming moved to Hyde Farm at Olney, after the sale I myself drove Mr, Hugh
                     Fleming's sheep when he moved to Olney by road what a lot of changes have taken
                     place in the village since'those days,</p>
-                <p part="N">Mr, Arthur James Cooper born on 11th June, 1880, he was married January
+                <p>Mr, Arthur James Cooper born on 11th June, 1880, he was married January
                     10th at Milton Ernest, He worked for Mr, Cook during the <pb n="14"/> First War
                     in 1914, he then lived at Dropshort, he worked on the Council for 20 years, he
                     rode his bicycle to Rushden which is about 14 miles a day. He left there and
@@ -631,9 +631,9 @@
                     care- taker at the school for 14 years, Miss Lewie Hulatt was caretaker for many
                     years, she was the daughter of Jim Hulatt who lived where Mr, Morrison lives
                     today.</p>
-                <p part="N">Miss Lewie Hulatt moved in the Row after her Father's death and stayed
+                <p>Miss Lewie Hulatt moved in the Row after her Father's death and stayed
                     there until she passed on. The rent those days was &lt; 1/- per week,</p>
-                <p part="N">Mrs. Payne had 3 sons, William, Joseph, and Fred. Joseph was killed in
+                <p>Mrs. Payne had 3 sons, William, Joseph, and Fred. Joseph was killed in
                     the 1914/18 war. They lived in the house at the far end of the Row, now occupied
                     by Tommy and Mrs. Morrison and family. The Paynes lived there for many years and
                     after the death of Mrs. Payne her son William Payne took the house over who
@@ -642,7 +642,7 @@
                     moved into the house where his brother Fred lived and he is moved to where old
                     Ted Rust used to live.years ago. Inkey Ted as I have referred to in some of my
                     wr i t i ng.</p>
-                <p part="N">William Payne has been connected with the Church for many years, the
+                <p>William Payne has been connected with the Church for many years, the
                     Clerk and has been for over 40 years and now in 1965 is still going strong and
                     he is very much appreciated with those connected with the village and I would
                     like to add that I have known him all my life and he has been a good living man
@@ -652,7 +652,7 @@
                     his life and he has served with a good many Vicars and others connected with the
                     Church •</p>
                 <pb n="15"/>
-                <p part="N">Fred Payne married the second daughter of the late William Rust, known
+                <p>Fred Payne married the second daughter of the late William Rust, known
                     in the village as David Rustand who lived for many years in the house opposite
                     the <placeName ref="#pl:sun-inn">Sun Inn</placeName> on the corner going to
                         <placeName ref="#pl:pavenham">Pavenham</placeName>. He was the son of Mr•
@@ -668,7 +668,7 @@
                     in the house which belongs to H. J. Cook &amp; Sons. Mr. and Mrs. Sid Lovell
                     have one son who is married and lives in a house known as Baileys Villas at
                         <placeName ref="#pl:felmersham">Felmersham</placeName>.</p>
-                <p part="N">Mr. Alfred Roberts brother to Nobey Roberts and also William Roberts,
+                <p>Mr. Alfred Roberts brother to Nobey Roberts and also William Roberts,
                     they all lived at Felmersham. Alfred Roberts who waa Horsekeeper for the Squire
                     lived across the field next to Mr, and Mrs. A. Cooper, Mr. Roberts had two
                     daughters Edith was a teacher at <placeName ref="#pl:felmersham-school"
@@ -681,7 +681,7 @@
                         Thomas</persName>, <persName>William Ashpole</persName>, <persName>Jack
                         Ashpole</persName>, <persName>William White</persName> and <persName>Charlie
                         Everest</persName> and others.</p>
-                <p part="N"><persName>Nobey Roberts</persName> who lived with his Mother
+                <p><persName>Nobey Roberts</persName> who lived with his Mother
                         <persName>Sophy</persName> in the house where <persName>Mrs.
                         Corse</persName> and <persName>Mrs. Roberts</persName> live today 1965. He
                     was never married.he was a man who in those days could turn his hand to any job,
@@ -690,7 +690,7 @@
                     job he done for me he layed a hedge in <placeName>Hilly Pyghtle</placeName> at
                         <placeName ref="#pl:radwell">Radwell</placeName>, that was a good many
                     year ago.</p>
-                <p part="N">It was very interesting in thosedays to watch them do their jobs and how
+                <p>It was very interesting in thosedays to watch them do their jobs and how
                     skilled they were in doing it. There were as there is today ploughing matches
                     but in those days that would be done by a pair of horses and what a skill it
                     was, the horses knew as much about the job they were about to do as the men. I
@@ -698,7 +698,7 @@
                     field and set a rig by just speaking to the horses and it would be as straight
                     if not straighter that the tractor do today. They <pb n="16"/> used to take a
                     great interest in their work for a very small pay.</p>
-                <p part="N">There was a man who lived at <placeName ref="#pl:felmersham"
+                <p>There was a man who lived at <placeName ref="#pl:felmersham"
                         >Felmersham</placeName>, the name <persName>William White</persName> and he
                     was Cowman for the late <persName>Flemings</persName> who farmed Manor |Parm now
                     occupied by <persName>Mr. J. Hensman</persName> after <persName>Mr.
@@ -730,7 +730,7 @@
                     old year out and the new one in and this is how the life went on in the village.
                     It was a happy life and you would make your own amusements in the village on
                     these special occasions.</p>
-                <p part="N">There is a great history about the <persName>Robinson</persName> and the
+                <p>There is a great history about the <persName>Robinson</persName> and the
                         <persName>Mitchell</persName> family. There was a man named
                         <persName>Mitchell</persName> who used to be Landlord of the <placeName
                         ref="#pl:plough-inn">Plough Inn</placeName> and according to what I can
@@ -751,7 +751,7 @@
                     storm would start, <pb n="17"/> and that's how the happy lads got on together, I
                     think I am right Mr. Fleming had to give George the sack and all was O.K. then
                     with his brother Tom.</p>
-                <p part="N">Mr. Charles Robinson farmed there until he retired, he had 3 sons,
+                <p>Mr. Charles Robinson farmed there until he retired, he had 3 sons,
                     Edward, Charles and Harry. Edward he farmed at <placeName ref="#pl:radwell"
                         >Radwell</placeName> until he retired. Charles he took to the butchering
                     line and worked at Rushden. Then he took over Butch Barker's business as far as
@@ -771,7 +771,7 @@
                     Robinson would always see that I had hot tea and something to eat she was a very
                     good lady, and I am sure Charles Robinson her husband was one of the best you
                     could wish to meet.</p>
-                <p part="N">Harry was the youngest of the three sons, he was farming at the time of
+                <p>Harry was the youngest of the three sons, he was farming at the time of
                     his father's retirement at Wilses Farm at <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> where Mrs. Hitchin farms today 1965. Harry taken
                     over the farm of his father and carried on a milk round at <placeName
@@ -796,13 +796,13 @@
                     Mrs. Robinson the grandmother of Harry Robinson of Dropshort, was thrown out and
                     injured. There was a lot of history about the Robinson family. I have wrote all
                     the main things I know.</p>
-                <p part="N">Mr. C* Robinson was a good trainer of dogs and also of break- ing in his
+                <p>Mr. C* Robinson was a good trainer of dogs and also of break- ing in his
                     horses and I think the same applies to all the family in the olden days. They
                     are still going strong and carrying on the good work. Harry Robinson junior has
                     land he farms at <placeName ref="#pl:radwell">Radwell</placeName> in 1965, he
                     has taken the land off his uncle Ted at <placeName ref="#pl:radwell"
                         >Radwell</placeName> now retired.</p>
-                <p part="N">Tom Robinson was brother to George Robinson who I have wrote about, he
+                <p>Tom Robinson was brother to George Robinson who I have wrote about, he
                     worked for Mr. Flemings at <placeName ref="#pl:manor-farm">Manor
                         Farm</placeName> and he lived in the cottages now occupied by Mrs. Morris
                     for a good many years. The cottages used to go with the farm and they do today
@@ -848,12 +848,12 @@
                     were related to Mr. Alfred Roberts. The last I heard about them their son Fred
                     who went to school with me was still living at Kettering. That is as far as I
                     can go with this family.</p>
-                <p part="N">The house where Tom Robinson used to live have been all done up and a
+                <p>The house where Tom Robinson used to live have been all done up and a
                     new bit added where he used to have his workshop and has also made practically a
                     new home. It all points out to what can be done to make things more comfortable
                     to live in and I would - at this point like to congratulate them both in the
                     good work done on this cottage.</p>
-                <p part="N">Fred Payne he worked for the Squire and he had the misfortune to be
+                <p>Fred Payne he worked for the Squire and he had the misfortune to be
                     kicked with one of the Squire's horses in the face, he worked on the County
                     Council for many years, he drove a steam roller for many years until he retired
                     on pension,in his retirement he liked to do gardening, to help him along in his
@@ -863,7 +863,7 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head>Thomas. Jack, Sam and Ted.</head>
-                <p part="N">Sam Thomas was a wheelwright and Carpenter, he carried on his business
+                <p>Sam Thomas was a wheelwright and Carpenter, he carried on his business
                     which is now occupied by Mr. Greenaway, he is in the fishing float manufacture.
                     This cottage was built in 1883, Mr. A. Pacey carried on the business as a
                     Wheelwright etc. for many years, he had 2 children, his son Tom was in the
@@ -871,7 +871,7 @@
                     Church. For many years she was also a teacher for a time at the school, Mr.
                     Pacey was the Peoples Warden for many years, this family took an active part in
                     the Church,</p>
-                <p part="N">Edward Thomas was a Stonemason, he used to live at <placeName
+                <p>Edward Thomas was a Stonemason, he used to live at <placeName
                         ref="#pl:radwell">Radwell</placeName> in the house now occupied by Mr.
                     and Mrs. Horsford in the <placeName ref="#pl:radwell">Radwell <pb n="20"/>
                         Lane</placeName>, he had 3 children, 2 sons and a daughter. The son George
@@ -883,7 +883,7 @@
                     churches and anywhere where there was stone work to be carried out. Fred Thomas
                     married George Willis daughter, and lived with them at Willis' farm now occupied
                     by Mrs. Hitchin.</p>
-                <p part="N">Jack Thomas was a Farmer, Baker and Sho#pkeeper, he also kept the Post
+                <p>Jack Thomas was a Farmer, Baker and Sho#pkeeper, he also kept the Post
                     Office, he had the Shop and Bake house now occupied by Mr* Alwin Betts, he used
                     to have two farms, one known as Parsons Barn Farm, now in possession of Mr,
                     Ibbott and also Willis Farm now in possession of Mrs* Hitchin. He farmed these
@@ -900,7 +900,7 @@
                     Felmersham and the rent had to be paid to the Parson and then the farm was sold,
                     after Jack Thomas left the farm. It was farmed by Mr* W* Brook who then had the
                     farm where H. J, Cook &amp; Sons farm today 1965.</p>
-                <p part="N">After Mr* Jack Thomas moved to <placeName ref="#pl:sharnbrook"
+                <p>After Mr* Jack Thomas moved to <placeName ref="#pl:sharnbrook"
                         >Sharnbrook</placeName> the shop was taken over by Mr* Robert Whitworth also
                     the Bake house and Post Office. He carried on the business for many years, he
                     had one son and several daughters. The son*George is a painter and decorater and
@@ -914,7 +914,7 @@
                     daughter and they lived in the house now occupied by Mr* and Mrs, John Bamford.
                     They had one son Bert, and as far as I know he lives at <placeName
                         ref="#pl:bedford">Bedford</placeName> today 1965.</p>
-                <p part="N">There was <persName>Brother Whitworth</persName> who lived in the
+                <p>There was <persName>Brother Whitworth</persName> who lived in the
                     cottage in <pb n="21"/>
                     <persName>Hardwick Close</persName> which is now fell down, his name was
                         <persName>Jim V/h it worth</persName> and he worked for the late
@@ -923,20 +923,20 @@
                     occasions. I myself worked for the late <persName>Mr, Flemings</persName> for.
                     several years also my brother <persName>Fred</persName>, who was killed in 1917,
                     he was the youngest in our family, he was born on Xmas day.</p>
-                <p part="N"><persName>William Lathbridge</persName> was Vicar when I was a boy and
+                <p><persName>William Lathbridge</persName> was Vicar when I was a boy and
                     he had several daughters who used to teach us at Sunday School as there were
                     several classes in those days. The one that teached ihy class was named
                         <persName>Jenny</persName> and she married the Squire's son <persName>Robin
                         Green</persName>, they were both interned in <placeName
                         ref="#pl:felmersham">Felmersham</placeName> Churchyard, also the son of
                     the Vicar.</p>
-                <p part="N">Then came <persName>Bruce Cuming</persName> Vicar 1903, he was never
+                <p>Then came <persName>Bruce Cuming</persName> Vicar 1903, he was never
                     married, but he did a lot for the Church and the Welfare of the village. He also
                     had a brother who lived with him which was named Don. Their servant at this time
                     was a <persName>Miss Parrish</persName> who married <persName>Mr. Herbert
                         Hulatt</persName> who lives at <persName>Harrold</persName> today 1965. She
                     now lives with her brothers as she lost her husband several year ago. </p>
-                <p part="N">Bruce Cumming Vicar, used to give a tea each year to all in the Parish,
+                <p>Bruce Cumming Vicar, used to give a tea each year to all in the Parish,
                     he would have the school children first and then one for middle age and then he
                     would finish up with all the old ones and we used to look forward to it.
                         <persName>Mr. Robert Whitworth</persName> used to provide the tea when the
@@ -945,7 +945,7 @@
                     in general. There are two names outstanding in my mind <persName>Mrs.
                         Drage</persName> and <persName>Mrs. Makeham</persName>. Mrs. Makeham's son
                     lives at <placeName ref="#pl:sharnbrook">Sharnbrook</placeName> 1965.</p>
-                <p part="N">Then in 1917 we had <persName>Lawrence Rowden Levett</persName>. He was
+                <p>Then in 1917 we had <persName>Lawrence Rowden Levett</persName>. He was
                     a very good man to the Parish and he took an active part in sport he would play
                     at football and he would take part in anything that was going on. I had to call
                     on him on one occasion when we had a cricket supper held at the <placeName
@@ -961,7 +961,7 @@
                     hia <pb n="22"/> Bible and off he go and preach his sermon and you would be out
                     by 7.0 o'clock. He was well liked in the village and did good work to keep the
                     village active.</p>
-                <p part="N">We have now the <persName>Rev. Sidebottom</persName> who looks after the
+                <p>We have now the <persName>Rev. Sidebottom</persName> who looks after the
                     Parish of <placeName ref="#pl:bletsoe">Bletsoe</placeName> and <placeName
                         ref="#pl:felmersham">Felmersham</placeName>, he is taking an active part
                     to improve the life of the village and we hope in due course the new vicarage
@@ -973,7 +973,7 @@
                         ref="#pl:felmersham-church">Felmersham Church</placeName> is a fine
                     Church and the finest village church in the country and the people who live in
                     the village are proud to have such a fine church.</p>
-                <p part="N">I have in my life in my young days attended the Church as we used to
+                <p>I have in my life in my young days attended the Church as we used to
                     march over from the School from Sunday School to take part in the service. There
                     was a good choir in those days and they used to take an active part in the
                     singing* There was a large attendance in those days especially in the evening.
@@ -981,7 +981,7 @@
                         <persName>Linnetts</persName> of <placeName ref="#pl:pavenham"
                         >Pavenham</placeName> would ' attend Church when they could do so, and so
                     the life went on in the village 60 year ago.</p>
-                <p part="N">The <placeName ref="#pl:felmersham">Felmersham</placeName> School in
+                <p>The <placeName ref="#pl:felmersham">Felmersham</placeName> School in
                     1845 it was a church school under the authority of the Vicar and church wardens.
                     The management is now in the hands of the County Council. The teacher at the
                     present day is Head Mistress, Miss Pacey who comes from <placeName
@@ -991,7 +991,7 @@
                     as the Village Room where meetings could be held without interferring with the
                     School but in the last few years things have changed and now they are held in
                     the school.</p>
-                <p part="N">When I went to school the little ones used to go after they turned 3.
+                <p>When I went to school the little ones used to go after they turned 3.
                     There was them days the son of the old school master he was a very short man and
                     he did not have what you would call in these days good control of the boys, they
                     more or less used to control the school master and if the boys got out of hand
@@ -1010,7 +1010,7 @@
                     to have it out with the School Master, but I would like to tell you he went a
                     bit far at times with his punishment and thats what used to cause the
                     trouble.</p>
-                <p part="N">Most of our family left <placeName ref="#pl:felmersham"
+                <p>Most of our family left <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> School and went to Sharn- brook School,
                         <persName>Mr. Colson</persName> was School Master there and he had better
                     control of the children. The reason my brother Frank, was ordered to stay in
@@ -1032,7 +1032,7 @@
                     was not out. If the floods were on the rise Mr. Colson would send us out
                     earlier, so we could get over on the planks as it soon came over in those days,
                     it was rather a rough life in those days.</p>
-                <p part="N">There was a lot went to <placeName ref="#pl:sharnbrook"
+                <p>There was a lot went to <placeName ref="#pl:sharnbrook"
                         >Sharnbrook</placeName> School, after we started to go there were also a lot
                     come from Souldrop to the School. A man named Ernest Barns and also Rool Newell
                     were teachers there in my days at School. Mr. Prince Evans was School Master at
@@ -1045,7 +1045,7 @@
                     Willington. Now today I have 4 grand- children attend today. I hope this will be
                     of interest to those who care to read. This is true as far as I can explain to
                     you.</p>
-                <p part="N">Now I would like to say a little about the sport carried on in <pb
+                <p>Now I would like to say a little about the sport carried on in <pb
                         n="24"/> the village in my boy days and also since about 1900 as far as I
                     can. There was always a good cricket team in the village, they won several cups
                     at cricket and football. <persName>Mr, A, Odell</persName> was captain for
@@ -1064,16 +1064,16 @@
                     if you do it again it will be. They used to finish the day up usual at the
                         <placeName ref="#pl:sun-inn">Sun Inn</placeName> kept then by the Hilton
                     family.</p>
-                <p part="N">There was in those days a cricket pitch in the Mead on the Sharnbrook
+                <p>There was in those days a cricket pitch in the Mead on the Sharnbrook
                     side where the first eleven used to play. They were what we used to call in
                     those days The Toff Team and it was a good one.</p>
-                <p part="N">The Cricket Team won the cups.</p>
-                <p part="N">2nd Division in 1922.</p>
-                <p part="N">2nd Division in 1929</p>
-                <p part="N">2nd Division in 1937.</p>
-                <p part="N">3rd Division in 1928.</p>
-                <p part="N">South Sec. 1933.</p>
-                <p part="N">They had a Football team and won the cup in 1925 and 26 Season. They
+                <p>The Cricket Team won the cups.</p>
+                <p>2nd Division in 1922.</p>
+                <p>2nd Division in 1929</p>
+                <p>2nd Division in 1937.</p>
+                <p>3rd Division in 1928.</p>
+                <p>South Sec. 1933.</p>
+                <p>They had a Football team and won the cup in 1925 and 26 Season. They
                     also played friendly games and we had a fairly good team in those days.
                         <persName>Mr. H. G. Lawson</persName> was captain and I was secretary. It
                     was then made a sports club as is at the present day and the team seem to give a
@@ -1089,7 +1089,7 @@
                         <persName>Joe Hulatt</persName> was two of our best bowlers at that time.
                     Joe lives at <placeName ref="#pl:felmersham">Felmersham</placeName> and Fred
                     Purser at <pb n="25"/> Souldrop in 1965,</p>
-                <p part="N">Hardwick Farm now occupied by Mr. and Mrs. Kerns ley they taken the farm
+                <p>Hardwick Farm now occupied by Mr. and Mrs. Kerns ley they taken the farm
                     over from Mr, Tom Cook when he left to go to Warden Hill Farm, Everton, Tom
                     Cook's mother could be seen along the Carl ton Road keeping her son's cows in
                     her younger days she would drive her pony and trap to <placeName
@@ -1100,7 +1100,7 @@
                     days, Gadsbys lived in the last house on the right hand side going to <placeName
                         ref="#pl:pavenham">Pavenham</placeName>. <persName>Mrs. Cook</persName>
                     was a <persName>Partridge</persName> from <persName>Bletsoe</persName>.</p>
-                <p part="N">There was a man named <persName ref="#ps:morton">Morton</persName>
+                <p>There was a man named <persName ref="#ps:morton">Morton</persName>
                     who lived at <placeName ref="#pl:hardwick-farm">Hardwick Farm</placeName>
                     before Cook as far as I know, he used to carry on the farm. He had a son named
                         <persName ref="#ps:morton-albert">Albert</persName>, he married one of
@@ -1119,7 +1119,7 @@
                     well. How I got this record was from the daughter <persName
                         ref="#ps:morton-fanny">Fanny</persName> which I have mentioned above, it
                     is as far as I now a true record.</p>
-                <p part="N">There was a man named <persName ref="#ps:mason-fred">Fred
+                <p>There was a man named <persName ref="#ps:mason-fred">Fred
                         Mason</persName> he was what they would call in those days a Higler, he kept
                     pigs and done a bit of farming. He used to have the field up the <placeName
                         ref="#pl:pavenham-road">Pavenham Road</placeName> named <placeName
@@ -1152,7 +1152,7 @@
                     farm over at <placeName ref="#pl:bowness">Bowness</placeName> and there he
                     died at an early age.</p>
                 <pb n="26"/>
-                <p part="N">There was no buses to take you those days. The passengers used to get
+                <p>There was no buses to take you those days. The passengers used to get
                     out and walk up the hills to ease the old horse a bit. <persName
                         ref="#ps:bowyer-horace">Mr. Bowyer</persName> had a 4 wheel brake. I
                     remember going to <placeName ref="#pl:sandy">Sandy</placeName> Flower Show
@@ -1161,13 +1161,13 @@
                     Gadsby</persName>, <persName ref="#ps:rust">Mrs, Rust</persName> and others.
                     I cannot remember went that day. I know it was a fine day, I was courting my
                     wife as is now at the time so it must have been nearly^O years ago.</p>
-                <p part="N">If you wanted to go to <placeName ref="#pl:bedford"
+                <p>If you wanted to go to <placeName ref="#pl:bedford"
                         >Bedford</placeName> you could catch a train at <placeName
                         ref="#pl:sharnbrook">Sharnbrook</placeName> which they did in those days
                     but it was a good walk when you got out at <placeName ref="#pl:sharnbrook"
                         >Sharnbrook</placeName>, but now the buses take you nearly to your door,
                     what a change it is today than it was 60 to 80 years ago.</p>
-                <p part="N">Now I would like to write a few lines about my own life in the last 74
+                <p>Now I would like to write a few lines about my own life in the last 74
                     years also a little about our family. I went to school until I was 13 and worked
                     for Mr. C. Robinson until I was in my 15, then I went on the Railway at
                         <placeName ref="#pl:sharnbrook">Sharnbrook</placeName> as a lamp boy. I
@@ -1183,7 +1183,7 @@
                     acting Sergeant Major when I was discharged in 1918. I was married on 19th
                     December 1919 and I lived in the same house for 45 years, this year. I have one
                     daughter and 3 sons and 8 grandchildren.</p>
-                <p part="N">My father was Henry Turner and my mother's maiden name was Turner so
+                <p>My father was Henry Turner and my mother's maiden name was Turner so
                     they did not change their names. They had 21 children they brought up 15, 6
                     girls and 9 boys. The other 6 died in child birth* My Father drove a pair of
                     donkeys at one time. He used to work on the Railway as a Platelayer, in his
@@ -1200,7 +1200,7 @@
                     lived at <placeName ref="#pl:bedford">Bedford</placeName> she will be 80 this
                     year, so there is only two of us left out of our large family 1965.</p>
                 <pb n="27"/>
-                <p part="N">There was the Jeffreys family they live in the cottage known as the
+                <p>There was the Jeffreys family they live in the cottage known as the
                         <placeName ref="#pl:bridge-cottage">Bridge Cottage</placeName>, when it
                     was sold Mr, and Mrs. Frank Desborough bought it. Mr. Desborough kept the
                         <placeName ref="#pl:six-ringers-inn">Six Ringers</placeName> when Squire
@@ -1209,14 +1209,14 @@
                     a grandaughter named Betty, she married my second son John, they now live at
                         <placeName ref="#pl:rushden">Rushden</placeName>, they have a son and a
                     daughter, Linda and Robert.</p>
-                <p part="N">In the two villages most of the houses had a pig sty in the garden and
+                <p>In the two villages most of the houses had a pig sty in the garden and
                     they used to keep perhaps 2 pigs. Mr. Newell was Baker at <placeName
                         ref="#pl:sharnbrook">Sharnbrook</placeName> and used to supply the
                     feeding stuff corn for the hens and so when the pigs were ready to be killed Mr.
                     Newell would take part of the pigs to cover the food stuff and that's how it
                     went on in the good old days in <placeName ref="#pl:felmersham"
                         >Felmersham</placeName>. Of course some would pay as they went along.</p>
-                <p part="N">There was a man who used to live in the house known as Underwood Farm of
+                <p>There was a man who used to live in the house known as Underwood Farm of
                     the name of G. Ward, he used to go and kill the pigs at the houses. There was
                     only several in the village who had a tub and scrat, so they used to borrow it
                     to dress the pig in. The copper would be got boiling and so on. This man G. Ward
@@ -1224,10 +1224,10 @@
                     the pig the way you wanted it and then it was put in salt and aired and hung up
                     round the house, they were what the old folks would say good pictures and all
                     the offals used to be made into faggots and goodlard.</p>
-                <p part="N">I remember once my Father Had a sow killed and that weighed over 20
+                <p>I remember once my Father Had a sow killed and that weighed over 20
                     score and that hung in the barn where Sam Lovell lives today 1965. That was cut
                     and come again. That is how things went on 70 years ago.</p>
-                <p part="N">In the old day most of the farm had what they used to call Dove House
+                <p>In the old day most of the farm had what they used to call Dove House
                     where the pigeons used to come and the farmers could get a few for dinner when
                     they wanted any. There was one in Marriotts Close not far from the <placeName
                         ref="#pl:six-ringers-inn">Six Ringers</placeName> which in those days
@@ -1255,10 +1255,10 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head>Post Office.</head>
-                <p part="N">There was no Post Office at <placeName ref="#pl:felmersham"
+                <p>There was no Post Office at <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> until Mrs Hulatt took it over for 5 months in 1918
                     and she is still at the Post Office,</p>
-                <p part="N">At the time when there was no Post Office a man named Charlie White he
+                <p>At the time when there was no Post Office a man named Charlie White he
                     was gardener at the Vicarage, he used to go to <placeName
                         ref="#pl:sharnbrook">Sharnbrook</placeName> Post Office to fetch the old
                     age pensions for those in the village. The Post Office was at the shop where Mr,
@@ -1274,7 +1274,7 @@
                     was trying to raise money to build a village hall and took an active part in the
                     life of the village. I have just been told that she is giving up the Post Office
                     in May 1965.</p>
-                <p part="N">In the time that the late Mr. Fleming was farming at Manor Farm there
+                <p>In the time that the late Mr. Fleming was farming at Manor Farm there
                     was rather a strange thing happened. There was some Gipsy called Smith, Jimmy
                     Smith and him and his wife and family used to travel the road and often camp on
                     Daisy Bank up the CarIton Road, they were often round the <placeName
@@ -1288,7 +1288,7 @@
                     Flemings, at this time his brother Joe Whitworth was his housekeeper, lived in
                     the house where Mr. S, Sum!in lives today 1965.</p>
                 <pb n="29"/>
-                <p part="N"> Gipsy Jimmy had a lot of children. There is one named Abergell and she
+                <p> Gipsy Jimmy had a lot of children. There is one named Abergell and she
                     and Joe Smith fiave been together and they are known all over <placeName
                         ref="#pl:bedford">Bedford</placeName>shire asv Joe and Annie, They are
                     well known in Felmersham and <placeName ref="#pl:radwell"
@@ -1313,7 +1313,7 @@
                     about it year ago. The gipsies in my boy days are different than they are today,
                     I have had some tea with them on Daisy Bank when I was sheep keeping 65 year
                     ago. Annie and Joe are still on Daisy Bank as I write this in 1965 February,</p>
-                <p part="N">The time as John Thomas farmed at <placeName ref="#pl:felmersham"
+                <p>The time as John Thomas farmed at <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> he gave all the boys a nick-name. I will tell you
                     some of the names, Snifter, Inkey Ted, Slough, Howley, Spider, Gilks, Tabby Cat,
                     Peggy, Slipstrings, Waskcoat, Cunning Dofty, Strikup, Bogey, Jack Judge, Blood,
@@ -1332,7 +1332,7 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head>The 1939/45 War.</head>
-                <p part="N">There was a lot of young and old took part in this war, the first to go
+                <p>There was a lot of young and old took part in this war, the first to go
                     was <persName key="CookP" instant="false" full="yes">Peter Cook</persName>, son
                     of H# J. Cook, the names I will give as far as I can, John Hunt, Jim Hunt, Bert
                     Hulatt, Richard Cumberland, Fred Payne, Tom Rust, Frederick Franklin, Sid
@@ -1341,19 +1341,19 @@
                     Hulatt, H. Lawson, Peter Stringer, Reg. Barker, Lawrence Fensom, Stan Allen,
                     Terry Longstaff, Ruby Cooper, Gladys Everest, Connie Rust, Edna Betts, Barbara
                     Cumberland. There was also Fred Betts, Joe Hulatt in the Special Police.</p>
-                <p part="N">The A.R.P. Post up <placeName ref="#pl:felmersham"
+                <p>The A.R.P. Post up <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> was in the garage attached to the Grange which was
                     manned each night by various people in the village. Also at <placeName
                         ref="#pl:radwell">Radwell</placeName>, the A.R.P. was at Mr. Edwin
                     Robinson's house, that was also manned each night. The lights had to be blacked
                     out in the hours of darkness.</p>
-                <p part="N">There was 7 sons of Sir Richard Wells in the forces in 1939/45 war*
+                <p>There was 7 sons of Sir Richard Wells in the forces in 1939/45 war*
                     There was also the Home Guard which took their part in the war from <placeName
                         ref="#pl:radwell">Radwell</placeName> and <placeName
                         ref="#pl:felmersham">Felmersham</placeName>.</p>
-                <p part="N">Farms at <placeName ref="#pl:felmersham">Felmersham</placeName> and
+                <p>Farms at <placeName ref="#pl:felmersham">Felmersham</placeName> and
                         <placeName ref="#pl:radwell">Radwell</placeName>.</p>
-                <p part="N">Hardwick Farm is farmed by Mr* Kemsley, Hawksfull and Haredine is farmed
+                <p>Hardwick Farm is farmed by Mr* Kemsley, Hawksfull and Haredine is farmed
                     by Messrs. H. J« Cook and Sons. College Farm is farmed by L. J. Church,
                         <placeName ref="#pl:manor-farm">Manor Farm</placeName> is farmed by Tom
                     Hensman, Brook Farm by Harry Robinson. Willis Farm is farmed by Mrs, Hitchin,
@@ -1365,7 +1365,7 @@
                     Mr* L* J, Church was taken over from Mr. Wm. Hackney when he came from Turvey.
                     Mr. L. J* Church was married to MMzecfW1** Tongue of Turvey in 1931 and they are
                     still farming there today 1965. They have 3 children and grandchildren.</p>
-                <p part="N">Mr. Harry Robinson took over his farm after his father retired, Miss M.
+                <p>Mr. Harry Robinson took over his farm after his father retired, Miss M.
                     Rootham took over her farm on the death of her Father, Mr. R. J* Rootham and is
                     farming there in 1965. Mr# Tom Hensman has the farm when his father retired he
                     now lives at Oakley,</p>
@@ -1373,7 +1373,7 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head> Felmersham Church.</head>
-                <p part="N">It is a fine church in the country and it has a history but I do not
+                <p>It is a fine church in the country and it has a history but I do not
                     intend to go into this, what I propose to do is to write about the things that
                     have happened in the last 70 or 80 years. The steps leading up to the West Door
                     was made in the Squire Green's time according to what I can gather from the
@@ -1391,12 +1391,12 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head>Election,</head>
-                <p part="N">When there was a General Election in those days there were no Polling
+                <p>When there was a General Election in those days there were no Polling
                     Stations in the village, all those that were entitled to a vote had to go to
                         <placeName ref="#pl:sharnbrook">Sharnbrook</placeName> School, they used
                     to go in to vote in Horse and Wagon in the daytime, there was only two parties
                     in those days, Liberals and Tories.</p>
-                <p part="N">I remember on one occasion the Squire wanted to take my Father to vote,
+                <p>I remember on one occasion the Squire wanted to take my Father to vote,
                     he said Thanks, but I shall go in my Donkey Cart to vote, some of. them were a
                     bit independent in those days. <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> were always a Tory stronghold, what it is today I
@@ -1410,15 +1410,15 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head>Bells.</head>
-                <p part="N">I would now like to say a little about the bell which have been rehung,
+                <p>I would now like to say a little about the bell which have been rehung,
                     this was carried out as near as I can gather in 1951 to <pb n="32"/> 1954. There
                     was before 5 bells. The old frames were taken out and rehung in steel frames,
                     the bell when rung, the sound carries a long way owing to being close to the
                     river. The late Sir Richard Wells Bart., who more or less footed the bill on
                     this occasion according to what I been told, he did a lot for the Church, the
                     time he was in residence at the Grange.</p>
-                <p part="N">War Memorial.</p>
-                <p part="N">This was erected by collection etc. in the village after 1914-18 war, it
+                <p>War Memorial.</p>
+                <p>This was erected by collection etc. in the village after 1914-18 war, it
                     was unveiled by Mr. Harry Green, the son of the Squire. There was an iron
                     enclosure, it was a usual thing for a rota of men in the two villages to keep
                     the grass cut and keep the Memorial tidy, also the ladies for the month to be
@@ -1430,7 +1430,7 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head>Radwell*</head>
-                <p part="N">Mr. J. Purser who lived at <placeName ref="#pl:radwell"
+                <p>Mr. J. Purser who lived at <placeName ref="#pl:radwell"
                         >Radwell</placeName> when I was married and lived next door to me, he wa«s a
                     man who used to do rush matting, he could do anything, he made baskets, mats,
                     and anything possible he could make with rushes. He used' to cut them in the
@@ -1447,12 +1447,12 @@
                     at Rushden, the other Eric works at the Stoke Mill for Messrs. Hipwell It Son at
                         <placeName ref="#pl:sharnbrook">Sharnbrook</placeName>9 and has been
                     there for a good many years.</p>
-                <p part="N">Radwell is what they call a Hamlet, of course, on the Parish <pb n="33"
+                <p>Radwell is what they call a Hamlet, of course, on the Parish <pb n="33"
                     /> Council, There has always been some of the people living at Rad- well on the
                     Council, Mr, W. L. Peck was on the District Council and when he died Mr. R. J.
                     Rootham was elected and now today 1965 Miss M. Rootham has taken up the office,
                     so it has not been out of the Peck family*for years.</p>
-                <p part="N">There is 3 farms in <placeName ref="#pl:radwell">Radwell</placeName>
+                <p>There is 3 farms in <placeName ref="#pl:radwell">Radwell</placeName>
                     occupied by Mr, F. Felce, Miss M. Rootham and Mr. Ibbott. At one t ime Moor End
                     Farm was farmed by a man named Marriott, he also at one time kept the <placeName
                         ref="#pl:swan-inn">Swan Inn</placeName>, after he died Mr* U. L, Peck
@@ -1461,12 +1461,12 @@
                     married Mr. Peckfs daughter and took over College Farm, after the death of Mr,
                     R« JV Rootham his daughter Miss M« Rootham took over the farm and is there today
                     1965.</p>
-                <p part="N">Mr. Felce took over the farm after his father's death and is still
+                <p>Mr. Felce took over the farm after his father's death and is still
                     farming there today 1965. Mr. Jim Cox farmed at Moor End Farm after the death of
                     his father, Mr .Alfred Cox who bought the farm when it was sold, Mr. La U, Peck
                     farmed there when it was sold, and now Mr© Jim Cox has sold it to Mr. ibbott and
                     farms it today 1965.</p>
-                <p part="N">There was a fire about 46 years ago and the two cottages were burnt. It
+                <p>There was a fire about 46 years ago and the two cottages were burnt. It
                     started with an old beam in the chimney, Mr. and Mrs* A« Turner lived there at
                     the time also John Church. The Fire Engine from <placeName
                         ref="#pl:sharnbrook">Sharnbrook</placeName> came to the fire, it was
@@ -1478,7 +1478,7 @@
                     The ground where the houses was sold to Mr. Felce and he had a bungalow built by
                     Mr. J. Bamford. Mr. F. Felce lived there for sometime, Mr. Constance lives there
                     today 1965.</p>
-                <p part="N">The allotment known as the Pyghtle was, according to what I can gather,
+                <p>The allotment known as the Pyghtle was, according to what I can gather,
                     in the hands of the Squire and he let it out in allot- ments of 20 poles and
                     when it was sold the late John Betts bought it. It was in the hands of the late
                     Mrs. Betts until she died. It is now owned and let out by Mr* Bert Hulatt. The
@@ -1492,7 +1492,7 @@
                     1913 and 1914 and for several years after,there was Mr, Allen kept it for a good
                     few years, also Mr* Stan Cooper and it is now in the hands of Mr. and Mrs.
                     Egan.</p>
-                <p part="N">There has been a lot of changes in the village this last 70 years* The
+                <p>There has been a lot of changes in the village this last 70 years* The
                     Chapel has been closed one time there was services in the after* noon and
                     evening also the children went to Sunday School. The Sun- day School Teacher in
                     the last year was the late Mr* Northwood and his two daughters, Kathleen and
@@ -1501,7 +1501,7 @@
                     service until the farm was sold. He still carries on with the allotment, he is
                     87 and still going strong. When Mr. Peck had Moor End Farm he had his horse he
                     used to ride; stolen one night it was found in a field at Kempston.</p>
-                <p part="N">In 1938 and 1939 the road up to <placeName ref="#pl:felmersham"
+                <p>In 1938 and 1939 the road up to <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> was being widened when the war broke out and some of
                     the men had to go. It was a narrow lane in those days and the footpath todayused
                     to be part of of the road. The water was put in before the road was widened and
@@ -1512,14 +1512,14 @@
                     years ago. There were no planks and the ground used to be open to the river
                     years ago. I have no dates to this effect. The stew planks are now concrete and
                     was put down when the wooden ones were not safe to go over.</p>
-                <p part="N">The late Mr. John Hulatt used to t???e &amp; foreman and 4#ne contract
+                <p>The late Mr. John Hulatt used to t???e &amp; foreman and 4#ne contract
                     work for the Council he also had a milk round »t <placeName
                         ref="#pl:felmersham">Felmersham</placeName> and Rad- well and done jobs
                     for anyone that he could Help, alter his death his son Fred carried on the
                     business until he retired from farming. John Hulatt had 8 children , 4 sons and
                     4 daughters. Fred lived at Radwell and Mrs. Sharman in 1965, at one time he
                     lived in the house where I live, today, where some of his family was born.</p>
-                <p part="N">There has been a lot of new bungalows put up in <placeName
+                <p>There has been a lot of new bungalows put up in <placeName
                         ref="#pl:radwell">Radwell</placeName> in these last few years, the
                     village is the same more or less as it was years ago and what with the
                     electricity, water and now the sewer we are up to date more than some of the
@@ -1530,7 +1530,7 @@
                     Council. I have in all my life never had any gipsies come to try to .camp on the
                     Green, at any time*</p>
                 <pb n="35"/>
-                <p part="N"> They have just put new water pipes in the village in 1964, There was a
+                <p> They have just put new water pipes in the village in 1964, There was a
                     fire at <placeName ref="#pl:college-farm">College Farm</placeName> some years
                     ago. When the canal burst its bank some years ago Mr. Alfred Cox had some of his
                     cattle swim down the river and drown. It came so quick that they jhad no time to
@@ -1538,12 +1538,12 @@
                         <placeName ref="#pl:sharnbrook">Sharnbrook</placeName> to get them to
                         <placeName ref="#pl:felmersham">Felmersham</placeName> at the same
                     time.</p>
-                <p part="N">The farm house where Mr. E. Robinson lives was built by the Council, it
+                <p>The farm house where Mr. E. Robinson lives was built by the Council, it
                     was the first one built in <placeName ref="#pl:radwell">Radwell</placeName>
                     for many years according to what I can gather. The one before that was built by
                     the Harrisons. Mr. E. Robinson farmed there until he retired, his nephew Mr. H*
                     Robinson has taken the land over.</p>
-                <p part="N">There was a nam named Mr. Lawson who used to be a Rag and Bone dealer,
+                <p>There was a nam named Mr. Lawson who used to be a Rag and Bone dealer,
                     he was a one armed man but was very active. He could swim and won prizes at
                         <placeName ref="#pl:sharnbrook">Sharnbrook</placeName>. He also played
                     football, he lived in the house where Mr. Webbster lives today. He was captain
@@ -1561,26 +1561,26 @@
                         ref="#pl:radwell">Radwell</placeName>. He once lived at Dropshort where
                     Mr* H. Robinson lives today. His father kept the Old Boot at <placeName
                         ref="#pl:bedford">Bedford</placeName> for many years*</p>
-                <p part="N">At my Father's sale I bought the two fields known as Hilly Pyghtle and
+                <p>At my Father's sale I bought the two fields known as Hilly Pyghtle and
                     Night Close. My son Fred Turner has got a bungalow adjoining Night Close.known
                     as the Five Elms. When the sewer was being put in I used to take my cows up
                         <placeName ref="#pl:radwell">Radwell</placeName> and the trench was open
                     to about 5 or 6 feet deep, it was a bit risky, but we had no accidents, the cows
                     knew there was up the road* After I retired I sold the fields to Mr. R. J.
                     Rootham now taken over by Miss M. Rootham*</p>
-                <p part="N">The house which stands on the Green used to belong to the Peak. family,
+                <p>The house which stands on the Green used to belong to the Peak. family,
                     but was sold some years ago to Mr* Prine Everest who was School Master at
                         <placeName ref="#pl:felmersham">Felmersham</placeName> School for some
                     time, and he lived in the house now occupied by Mr* Gi liner, Mr* Lushington
                     lives in the house on the Green 1965*</p>
                 <pb n="36"/>
-                <p part="N"> The orchard which belongs to the Pecks family and the landlord of the
+                <p> The orchard which belongs to the Pecks family and the landlord of the
                     Pub used to rent it off the Peeks family* Then in the later years the Pecks sold
                     it to Messrs, Veils Breweries and now it goes with the Pub. There was also a
                     large barn where they used to thrash wheat and beans in the winter with a
                     thrale, this thrashing barn used to go with the orchard, it was pulled down some
                     years ago. </p>
-                <p part="N">There is a house, the last one before you get to the Railway bridge
+                <p>There is a house, the last one before you get to the Railway bridge
                     which was built when the widening of the railway was done and this house was
                     built by the Harrisons, after the death, I am given to understand, that
                         <placeName>Mr. Tommy Harrison</placeName> and <placeName>Mr. Jimmy
@@ -1596,7 +1596,7 @@
                     correct <persName>Jimmy Harrison</persName> told me he had fetched the water
                     many a time. There used to be a stile there he told me, the pond is filled in
                     now*</p>
-                <p part="N">In the time when the railway strike was on <persName>Mr.
+                <p>In the time when the railway strike was on <persName>Mr.
                         Franklin</persName> was having a little railway track put down in the
                     adjoining fields, the back of the house and there was a Station, a Tunnel and
                     Signal Box, viaduct, just as you would find on the railway. There was a
@@ -1616,12 +1616,12 @@
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <head>Radwell Chapel.</head>
-                <p part="N">Mr. and Mrs. Lineman was caretakers at the <placeName
+                <p>Mr. and Mrs. Lineman was caretakers at the <placeName
                         ref="#pl:radwell">Radwell</placeName> Chapel for a. good many years. He
                     always took an active part in the running of the Chapel. He had two daughters,
                     one married a Mr. Stonebanks <pb n="37"/> an&lt;J the other one Mr.
                     Northwood.</p>
-                <p part="N">Mr. H. Lineman worked for a man named Marsh, he was grandfather to Mr.
+                <p>Mr. H. Lineman worked for a man named Marsh, he was grandfather to Mr.
                     Marsh who lives at <placeName ref="#pl:milton-ernest">Milton
                         Ernest</placeName> today 1965. Mr. S. Marsh used to have a horse and cart
                     and used to fetch sheep and cattle etc.that had died. Mr. Lineman used to help
@@ -1634,7 +1634,7 @@
                     Northwood played for a good many years. Mr. F. Ward was superintendent for spme
                     years also. Mr. John Whitworth he took an active part with the chapel, W. Pecks,
                     Mr. and Mrs. Rootham and many others in the village.</p>
-                <p part="N">There was a lot of children used to come to chapel from Felmersham. Mr.
+                <p>There was a lot of children used to come to chapel from Felmersham. Mr.
                     Northwood and his two daughters, Kathleen and Freda used to teach at Sunday
                     School and other helpers. The Northwood family took an active part in running
                     the chapel, in the last years until Miss Kathleen and Freda sold their house and
@@ -1643,7 +1643,7 @@
                     it was kept up for so many years, I remember going to chapel myself and how we
                     used to look forward to the tea and games we used to have in the afternoon up in
                     Mr* L. W# Peck's field, now occupied by his granddaughter, Miss Rootham,</p>
-                <p part="N">There was a good many people from <placeName ref="#pl:bedford"
+                <p>There was a good many people from <placeName ref="#pl:bedford"
                         >Bedford</placeName> who used to come and sing at the chapel but that is all
                     finished now. Mr. S, A, Hooker took an active part in the work of the Methodists
                     and preached on many occasions in the <placeName ref="#pl:radwell"
@@ -1666,14 +1666,14 @@
                     the children and the adults. The children got prizes and so on each year and a
                     star for their attendance each Sunday. Most of the children in the village
                     attended the Sunday Chapel School.</p>
-                <p part="N">Radwell and <placeName ref="#pl:felmersham"
+                <p>Radwell and <placeName ref="#pl:felmersham"
                     >Felmersham</placeName></p>
-                <p part="N">There is at present in <placeName ref="#pl:radwell"
+                <p>There is at present in <placeName ref="#pl:radwell"
                         >Radwell</placeName> bungalows and houses been built in this last 20 years
                     is 17 and two being built up to now. The last one to start is <persName
                         ref="#ps:fensome-lawrence">Mr. L. Fensome</persName> in the ground that
                     used to belong to Miss M. Rootham.</p>
-                <p part="N">There are in <placeName ref="#pl:felmersham">Felmersham</placeName>
+                <p>There are in <placeName ref="#pl:felmersham">Felmersham</placeName>
                     bungalows and houses been built in the last 25 years to 35 years approximately
                     45 to 55 and there is building going on in several places today. The old
                         <placeName ref="#pl:felmersham">Felmersham</placeName> ■ will soon be a
@@ -1689,7 +1689,7 @@
                         ref="#ps:bailey">Bailey</persName> used to stay at the <placeName
                         ref="#pl:six-ringers-inn">Six Ringers</placeName> when <persName>Mr. J. Thorndyke</persName>
                     was Landlord.</p>
-                <p part="N">The house or bungalow up the Carlton Road which were built in the fields
+                <p>The house or bungalow up the Carlton Road which were built in the fields
                     known as <placeName>Stumpet Field</placeName> was built by the late Mr.
                     Dewesbury who then lived at <placeName>Underwood Farm</placeName>, <placeName
                         ref="#pl:radwell">Radwell</placeName>. He had it built for his son
@@ -1703,14 +1703,14 @@
                     my sheep in there at dinner times, but today <persName>Mr* Swales</persName> who lives in the house
                     which he bought one of Baileys Villas, haa got it and keeps pigs etc. up
                     there.</p>
-                <p part="N">There is a footpath which goes in at the bottom of the first hill on the
+                <p>There is a footpath which goes in at the bottom of the first hill on the
                     Carlton Road after you leave <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> goes across the field known as Shipens and along the
                     next field to Red Barn and then <pb n="39"/> on,and over the Odell Mill into
                     Odell, I been over it many a time* Carlton Road and Daisy Bank has always been
                     known for gipsies to congregate on and gather in different gangs, but not so
                     many today 1965.</p>
-                <p part="N">I have tried to outline the best I can in the two villages in the last
+                <p>I have tried to outline the best I can in the two villages in the last
                     years so please excuse me if I left things put. Its a Job to think of all but I
                     wrote it as it came to me, and as far as I know what I wrote is true. It took me
                     approximately 6 weeks on and off and my fingers are getting a bit sore. There is
@@ -1728,19 +1728,19 @@
                         >Radwell</placeName> known as London, his correct name is Herbert Hulatt.
                     There has been a lot of fresh people come in the village this last 15 years. I
                     don't know some of them myself, most of them go out to business.</p>
-                <p part="N"><persName>Mr. J. Bamford</persName> was Landlord of the <placeName
+                <p><persName>Mr. J. Bamford</persName> was Landlord of the <placeName
                         ref="#pl:plough-inn">Plough Inn</placeName> for many years he carried on
                     as a builder and done repair work in the village, in his later years he done
                     repair and etc. for <persName>Captain Starey</persName> at <placeName
                         ref="#pl:milton-ernest">Milton Ernest</placeName> until he retired. He
                     now lives in a cottage where the late <persName>Herbert Scrivener</persName>
                     used to live, he was a bricklayer and a handyman.</p>
-                <p part="N"><persName>Mr.</persName> and <persName>Mrs. Chapman</persName> took over
+                <p><persName>Mr.</persName> and <persName>Mrs. Chapman</persName> took over
                     the <placeName ref="#pl:plough-inn">Plough Inn</placeName> and is there today
                     1965. <persName>Mr. Sid Lovell</persName> took over the <placeName ref="#pl:sun-inn">Sun
                         Inn</placeName> after the death of <persName>Mr. H. G. Lawson</persName> and is there today,
                     1965,</p>
-                <p part="N">There has been various Landlords at the <placeName
+                <p>There has been various Landlords at the <placeName
                         ref="#pl:six-ringers-inn">Six Ringers</placeName>, <persName>Mr. G. Hulatt</persName> was
                     Landlord for approximately 12 years. The Swan <placeName ref="#pl:radwell"
                         >Radwell</placeName> has had several Landlords, <persName>Mr. Tom
@@ -1748,8 +1748,8 @@
                         Cooper</persName> was Landlord for a few years and now the Landlord is
                         <persName>Mr. Egan</persName>, he has only been Landlord for a few months
                     and is making a lot of improvements.</p>
-                <p part="N">Footpaths.</p>
-                <p part="N">These footpaths were used years ago, there is one that goes in opposite
+                <p>Footpaths.</p>
+                <p>These footpaths were used years ago, there is one that goes in opposite
                     the <placeName ref="#pl:swan-inn">Swan Inn</placeName> and goes across the
                     fields and comes out at the corner known as The Ashes and along The Ashes and
                     comes up Browlance and over the <placeName ref="#pl:pavenham">Pavenham
@@ -1768,17 +1768,17 @@
                     then up to the boundaries by <persName>Major McCullen's</persName> and on to the Carl ton Road and
                     along the Road and join up with <persName>Mr. T. Hensman's</persName> land then over to where we have
                     started from.</p>
-                <p part="N">This is as far as I can tell you, there is a footpath goes across to
+                <p>This is as far as I can tell you, there is a footpath goes across to
                         <placeName ref="#pl:sharnbrook">Sharnbrook</placeName> goes in over the
                     bridge and comes out at Sharnbrook.</p>
-                <p part="N"><persName>Mr. Taylor</persName> who was Landlord at The Sun for several years, he was then a
+                <p><persName>Mr. Taylor</persName> who was Landlord at The Sun for several years, he was then a
                     gunsmith and tinsmith. H e was an artist at his work, he was a man who could
                     make anything you wanted and he was a very handyman. H e used to do his work in
                     the building attached to the Sun. He used to do a lot for the farmers to repair
                     the drills etc. After he left he went to live at Carlton, he used to drive a
                     pony and trap to the various jobs he had to do in other villages. I think I am
                     right in saying he was on the Parish Council.</p>
-                <p part="N">I was a reporter for the Beds.'Times for <placeName ref="#pl:radwell"
+                <p>I was a reporter for the Beds.'Times for <placeName ref="#pl:radwell"
                         >Radwell</placeName> and Felmer- sham for several years. <persName>Mr. Pratt</persName> was
                     reporter after me until he left the village. In the village of <placeName
                         ref="#pl:radwell">Radwell</placeName> when anyone had to be buried it was
@@ -1788,7 +1788,7 @@
                     was done in those days more or less as your friends as a rule they had bread and
                     cheese with a little beer. I don't think the farmer stopped their wages on these
                     jobs.</p>
-                <p part="N"><persName>Mr* Sam Barker</persName> the oldest man who was born in the village, he is now 87
+                <p><persName>Mr* Sam Barker</persName> the oldest man who was born in the village, he is now 87
                     and has seen many changes in the village. He remembers the <placeName
                         ref="#pl:radwell">Radwell</placeName> planks being put down by <persName>Mr. Sam
                     Thomas</persName>, that was all open to the river before then, and when the flood was out
@@ -1802,11 +1802,11 @@
                     horses and has been a very active man all his life. He lost his wife years ago
                     and his daughter <persName>Mrs. Longstaff</persName> lives with him and looks after him. He has lived
                     in the same house for many years.</p>
-                <p part="N"><persName>Mr.</persName> and <persName>Mrs. Barker</persName> had 2 sons, <persName>Fred</persName> and <persName>Reg</persName> and 5 daughters, two
+                <p><persName>Mr.</persName> and <persName>Mrs. Barker</persName> had 2 sons, <persName>Fred</persName> and <persName>Reg</persName> and 5 daughters, two
                     daughters live at <placeName ref="#pl:radwell">Radwell</placeName> and one
                     son. Both the sons work on the County Council. Fred the oldest son lives at
                     Stagsden, he is foreman on the road.</p>
-                <p part="N">The farm at <placeName ref="#pl:radwell">Radwell</placeName> known as
+                <p>The farm at <placeName ref="#pl:radwell">Radwell</placeName> known as
                         <placeName ref="#pl:radwell">Radwell</placeName> Hall used to belong to
                     <persName>Mr, Hodge</persName>, and he sold it to <persName>Mr. C. Felce</persName> after his death his son Fred Felce
                     carries on the farm today 1965. There was also at <placeName
@@ -1827,9 +1827,9 @@
                     about <placeName ref="#pl:radwell">Radwell</placeName> but I must stop
                     somewhere. There is such a lot of changes this last 70 years, so we must try and
                     keep up with them the best they can.</p>
-                <p part="N">Felmersham and <placeName ref="#pl:radwell">Radwell</placeName> W.I.
+                <p>Felmersham and <placeName ref="#pl:radwell">Radwell</placeName> W.I.
                     1965.</p>
-                <p part="N"><persName>Mrs* Wain</persName> President and 19 members of the W.I. to celebrate the Goi.den
+                <p><persName>Mrs* Wain</persName> President and 19 members of the W.I. to celebrate the Goi.den
                     Jubilee of the National Federation of Womens Institute in 1965. <placeName
                         ref="#pl:felmersham">Felmersham</placeName> as with W.I. all over England
                     planted a red oak tree. The planting ceremony took place on the roadside near
@@ -1844,17 +1844,17 @@
                         <pb n="42"/> Kerns ley*</persName> After the planting <persName>Mrs, Wain</persName> the President invited
                     everyone to the school for a cup of tea and biscuits which was served by members
                     of the Committee.</p>
-                <p part="N">This is the last page in the book.</p>
-                <p part="N"><persName>Robert Turner</persName>.</p>
-                <p part="N">March, 1965.</p>
+                <p>This is the last page in the book.</p>
+                <p><persName>Robert Turner</persName>.</p>
+                <p>March, 1965.</p>
             </div1>
             <div1 part="N" org="uniform" sample="complete">
                 <pb n="43"/>
                 <head>Grave Diggers Diary 1763 - 1831.</head>
-                <p part="N">In the year <date when="1814-01" instant="false">1814 January</date>
+                <p>In the year <date when="1814-01" instant="false">1814 January</date>
                     snow fell and lay until <date when="1814-04-03" instant="false">April
                     3rd</date>. Onions were sold 4d. each.</p>
-                <p part="N">In the Parish of <placeName ref="#pl:felmersham"
+                <p>In the Parish of <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> there was 38 houses, I went in, my month was never
                     so late before, finished harvest November 8th, wheat was 5/0 a bushel.
                         <placeName ref="#pl:felmersham">Felmersham</placeName> Parish Land let at
@@ -1864,14 +1864,14 @@
                     make a new bakehouse for <persName>Mr. Brown</persName>. June 27th Turned the second arch. Aug. 3rd
                     Turned the third arch. Aug. 22nd. Turned the 4th arch. Oct. 6th. Turned the 5th
                     arch.</p>
-                <p part="N">1819. January 5th. <persName>Richard Wills</persName> is 68. Married <persName>Ann Archer</persName> she is 26
+                <p>1819. January 5th. <persName>Richard Wills</persName> is 68. Married <persName>Ann Archer</persName> she is 26
                     years old. 1819 January a great flight of doves settled on <placeName
                         ref="#pl:radwell">Radwell</placeName> Chapel between 6 and 7 at night.
                     February 24th the first and last arch fell down, on October 14th they turned the
                     second arch that fell down 1820. After one year and 19 weeks labour they
                     finished the broken bridge. July 8th they had such a flood that all the arches
                     of the bridge was covered. •</p>
-                <p part="N"><persName>Thomas Barker</persName> 72 years of age went avay for debauchery with <persName>Mary Ann
+                <p><persName>Thomas Barker</persName> 72 years of age went avay for debauchery with <persName>Mary Ann
                     Drage</persName> 14 years of age. <persName>Thomas Barker</persName> came back home again in 1823, January 26th.
                     February 4th mutton was 4d, 1b. 1924 <persName>John Brooks</persName> was transported beyond the seas
                     for 7 years. Aug. 10th <placeName ref="#pl:radwell">Radwell</placeName>
@@ -1885,16 +1885,16 @@
                     stealing sheep, Feb 13, Joseph Payn® barn at Hardwick was wilfully set on fire,
                     <persName>Benjamin Parsons</persName> sent to gaol, beaten <persName>Joseph Wills</persName> one of the watchers at the
                     fire.</p>
-                <p part="N">March 16th <persName>George Costin</persName>, <persName>Dickens
+                <p>March 16th <persName>George Costin</persName>, <persName>Dickens
                         Prigmore</persName> was sent to jail for setting fire to Mr. Payne's barn,
                     Hardwick and stealing sheep. July 15th <persName>George Costin</persName> and
                         <persName>Frances Hulatt</persName> was condemned to be hanged but was
                     transported for life. <persName>Dickens Prigmore</persName> turned Kings
                     evidence.</p>
                 <pb n="44"/>
-                <p part="N">King George IV died June 26th 1830, was buried on St. Swithans day at
+                <p>King George IV died June 26th 1830, was buried on St. Swithans day at
                     10.0 o'clock and I knolled the bell 14 hours in the time,</p>
-                <p part="N">February 8th a great flood and 2 bakers went to Milton Ernest and a man,
+                <p>February 8th a great flood and 2 bakers went to Milton Ernest and a man,
                     a blacksmith, named Prudden to work at Bletsoe till night and he went to
                         <placeName ref="#pl:milton-ernest">Milton Ernest</placeName> to come home
                     with the two bakers, and they came down to flood to <placeName
@@ -1903,16 +1903,16 @@
                     got out and the horse and cart was carried into the Perrys Meadows, it was never
                     known in the old age, the man's name was Harpen or Orpin. This is still talked
                     in <placeName ref="#pl:felmersham">Felmersham</placeName>.</p>
-                <p part="N">October 31st, great flood that ever was known it drove the wall down
+                <p>October 31st, great flood that ever was known it drove the wall down
                     from the bridge 1823. In October it started snowing and rained 1829 for 89 days
                     and very cold 1830. On January 10th Joseph set sail to the West Indies. Nov.
                     25th snowed and it lay on the ground until the lay on the ground until March
                     12th 1830.</p>
-                <p part="N">This I have copied out of the Grave Digger's Diary I thought you would
+                <p>This I have copied out of the Grave Digger's Diary I thought you would
                     like to read it with the history of <placeName ref="#pl:felmersham"
                         >Felmersham</placeName> and <placeName ref="#pl:radwell"
                         >Radwell</placeName> I have written*</p>
-                <p part="N">R.T.</p>
+                <p>R.T.</p>
             </div1>
         </body>
 
