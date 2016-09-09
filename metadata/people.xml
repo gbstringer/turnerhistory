@@ -1,0 +1,36 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Index of Individuals and Organisations</title>
+                <funder>none</funder>
+                <sponsor>University of Exeter</sponsor>
+                <principal>Gary Stringer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from various sources cited in individual entries</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <head>Index of Individuals</head>
+                <person xml:id="RT">
+                    <persName type="personal">
+                        <forename>Robert</forename>
+                        <surname>Turner</surname>
+                    </persName>
+                    
+                </person>
+                
+            </listPerson>
+            
+        </body>
+    </text>
+</TEI>
