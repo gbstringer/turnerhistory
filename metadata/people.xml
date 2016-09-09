@@ -21,13 +21,13 @@
         <body>
             <listPerson>
                 <head>Index of Individuals</head>
-                <person xml:id="RobertTurner">
+                <person xml:id="turner-robert">
                     <persName type="personal">
                         <forename>Robert</forename>
                         <surname>Turner</surname>
                     </persName>
                           </person>
-                <person xml:id="RoseTurner">
+                <person xml:id="turner-rose">
                     <persName type="personal">
                         <forename>Rose</forename>
                         <surname>Turner</surname>
