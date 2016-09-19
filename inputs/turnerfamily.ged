@@ -1,0 +1,188 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 NAME Robert /Turner/
+2 SOUR @S203563723@
+3 _APID 1,8753::66006064
+1 SEX M
+1 FAMS @F1@
+0 @P2@ INDI 
+1 BIRT 
+2 DATE 17 Jul 1895
+2 PLAC Pavenham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181630
+2 SOUR @S203563712@
+3 _APID 1,7579::7638643
+2 SOUR @S203563734@
+3 _APID 1,8912::33285306
+1 NAME Rose Althea Winifred /Bowyer/
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181630
+2 SOUR @S203563712@
+3 _APID 1,7579::7638643
+2 SOUR @S203563718@
+3 _APID 1,1904::23570510
+2 SOUR @S203563723@
+3 _APID 1,8753::65838425
+2 SOUR @S203563734@
+3 _APID 1,8912::33285306
+1 DEAT 
+2 DATE 18 Feb 1988
+2 PLAC Harrold, Bedfordshire, England
+2 SOUR @S203563712@
+3 _APID 1,7579::7638643
+2 SOUR @S203563718@
+3 _APID 1,1904::23570510
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 02 Apr 1911
+2 PLAC Felmersham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181630
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F1@
+0 @P3@ INDI 
+1 BIRT 
+2 DATE abt 1872
+2 PLAC Pavenham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181629
+1 NAME Rhoda
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181629
+1 SEX F
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 02 Apr 1911
+2 PLAC Felmersham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181629
+1 FAMS @F2@
+0 @P4@ INDI 
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 02 Apr 1911
+2 PLAC Felmersham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181628
+1 BIRT 
+2 DATE abt 1875
+2 PLAC Stevington, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181628
+1 NAME Horace Francis Emary /Bowyer/
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181628
+1 SEX M
+1 FAMS @F2@
+0 @P5@ INDI 
+1 RESI Relation to Head of House: Daughter
+2 DATE 02 Apr 1911
+2 PLAC Felmersham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181632
+1 BIRT 
+2 DATE abt 1908
+2 PLAC Felmersham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181632
+1 NAME Doris Mildred /Bowyer/
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181632
+1 SEX F
+1 FAMC @F2@
+0 @P6@ INDI 
+1 BIRT 
+2 DATE abt 1900
+2 PLAC Pavenham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181631
+1 RESI Relation to Head of House: Son
+2 DATE 02 Apr 1911
+2 PLAC Felmersham, Bedfordshire, England
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181631
+1 NAME Harold Horace Alfred /Bowyer/
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181631
+1 SEX M
+1 FAMC @F2@
+0 @F1@ FAM 
+1 HUSB @P1@
+1 WIFE @P2@
+1 MARR 
+2 DATE Dec 1919
+2 PLAC Bedford, Bedfordshire
+2 SOUR @S203563723@
+3 _APID 1,8753::66006064
+0 @F2@ FAM 
+1 HUSB @P4@
+1 WIFE @P3@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1894
+2 SOUR @S203563708@
+3 PAGE Class: RG14; Piece: 8831; Schedule Number: 43
+3 _APID 1,2352::44181628
+0 @R200210104@ REPO
+1 NAME Ancestry.com
+0 @S203563708@ SOUR
+1 REPO @R200210104@
+1 TITL 1911 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2352::0
+0 @S203563712@ SOUR
+1 REPO @R200210104@
+1 TITL England & Wales, Civil Registration Death Index, 1916-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7579::0
+0 @S203563718@ SOUR
+1 REPO @R200210104@
+1 TITL England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1966, 1973-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1904::0
+0 @S203563723@ SOUR
+1 REPO @R200210104@
+1 TITL England & Wales, Civil Registration Marriage Index, 1916-2005
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+1 _APID 1,8753::0
+0 @S203563734@ SOUR
+1 REPO @R200210104@
+1 TITL England & Wales, Civil Registration Birth Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8912::0
+0 TRLR
