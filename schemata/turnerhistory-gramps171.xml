@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemata/grampsxml-v1.7.1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<database xmlns="http://gramps-project.org/xml/1.7.1/">
+    <header>
+        <created date="2017-07-24" version="0.1"></created>
+        <researcher></researcher>
+    </header>
+    
+</database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemata/gedcom55XML.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<GED>
+    <HEAD>
+        <SOUR></SOUR>
+        <SUBM REF=""></SUBM>
+        <GEDC>
+            <VERS></VERS>
+            <FORM></FORM>
+        </GEDC>
+        <CHAR></CHAR>
+    </HEAD>
+    <TRLR></TRLR>
+</GED>
