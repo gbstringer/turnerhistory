@@ -12,7 +12,7 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 
 	{
-		let $doc := doc("../data/turner1965-p5.xml")
+		let $doc := doc("../texts/turner1965-p5.xml")
 		let $everyplace := $doc//tei:placeName
 		let $keys := distinct-values($everyplace/@ref)
 
