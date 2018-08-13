@@ -8,7 +8,7 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 <list type="gloss">
 
 {
-	let $doc := doc("turner1965-p5.xml")
+	let $doc := doc("../texts/turner1965-p5.xml")
 	
 	for $name in distinct-values($doc//tei:name) order by $name
 	return 

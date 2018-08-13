@@ -5,15 +5,20 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 <div type="glossary">
 <head>Glossary of Names</head>
-<list type="gloss">
+<table type="gloss">
 
 {
-	let $doc := doc("turner1965-p5.xml")
+	let $doc := doc("../texts/turner1965-p5.xml")
+	let $names := $doc//(tei:name|tei:persName|tei:placeName)
 	
-	for $n in $doc//tei:name[@type='person'] order by $n/@key
-	return 
-		 <label xml:id="{data($n/@key)}">{normalize-space($n)}</label>	
+	for $n in $names order by $n/@ref, $n
+	return
+	       <tr>
+	           <td>{$n/@ref}</td>
+	           <td>{normalize-space(string-join($n,' # '))}</td>
+	           
+	       </tr>
 }
 
-</list>
+</table>
 </div>
